@@ -7,3 +7,7 @@
 
 3. Splitting a subfolder out into a new repository  
 `https://help.github.com/articles/splitting-a-subfolder-out-into-a-new-repository/`
+
+
+4. Resolving a merge conflict  
+`https://help.github.com/articles/resolving-a-merge-conflict-using-the-command-line/`
